@@ -76,4 +76,3 @@ Varible names measured:
 "fBodyBodyGyroMag-mean()"
 "fBodyBodyGyroMag-std()"
 "fBodyBodyGyroJerkMag-mean()"
-"fBodyBodyGyroJerkMag-std()"
